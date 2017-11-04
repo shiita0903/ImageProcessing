@@ -1,1 +1,8 @@
-# ImageProcessing
+# resize
+## 使い方
+```
+$ python resize.py [size]
+```
+同じディレクトリ内の.jpgを、全て指定のサイズにリサイズする。
+
+**※元のファイルを書き換えるので注意すること!!!**
